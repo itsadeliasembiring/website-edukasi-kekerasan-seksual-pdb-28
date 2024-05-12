@@ -22,7 +22,7 @@ export default function Penyebab() {
               <h3 className="text-lg font-semibold mb-2 text-[#000]">
                 Hawa Nafsu
               </h3>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-[14px] md:text-[18px]">
                 Terdapat hasrat sex yang tidak bisa disalurkan dapat menjadi
                 salah satu faktor penyebab pelecehan seksual dimana pelaku
                 menyalurkan nafsunya tersebut dengan melakukan pelecehan
@@ -36,7 +36,7 @@ export default function Penyebab() {
               <h3 className="text-lg font-semibold mb-2 text-[#000]">
                 Penggunaan Kekuasaan atas Orang Lain
               </h3>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-[14px] md:text-[18px]">
                 Pelaku memiliki otoritas atas korban. Contohnya, pelaku
                 merupakan atasan korban.
               </p>
@@ -48,7 +48,7 @@ export default function Penyebab() {
               <h3 className="text-lg font-semibold mb-2 text-[#000]">
                 Sistem Patriarki di Masyarakat
               </h3>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-[14px] md:text-[18px]">
                 Melekatnya sistem patriarki yang kuat dalam diri masyarakat
                 Indonesia menyebabkan masyarakat mewajarkan tindakan kekerasan
                 seksual ataupun pelecehan seksual dan justru menuduh korban atau
@@ -62,7 +62,7 @@ export default function Penyebab() {
               <h3 className="text-lg font-semibold mb-2 text-[#000]">
                 Kebiasaan Menonton Konten Porno
               </h3>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-[14px] md:text-[18px]">
                 Hal ini memicu adanya fantasi seksual, dan apabila tidak
                 disalurkan dengan baik maka bisa saja berujung pada pelecehan
                 seksual.
@@ -80,7 +80,7 @@ export default function Penyebab() {
                 <h3 className="text-lg font-semibold mb-2 text-[#000]">
                   Hawa Nafsu
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-[14px] md:text-[18px]">
                   Terdapat hasrat sex yang tidak bisa disalurkan dapat menjadi
                   salah satu faktor penyebab pelecehan seksual dimana pelaku
                   menyalurkan nafsunya tersebut dengan melakukan pelecehan
@@ -94,7 +94,7 @@ export default function Penyebab() {
                 <h3 className="text-lg font-semibold mb-2 text-[#000]">
                   Penggunaan Kekuasaan atas Orang Lain
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-[14px] md:text-[18px]">
                   Pelaku memiliki otoritas atas korban. Contohnya, pelaku
                   merupakan atasan korban.
                 </p>
@@ -106,7 +106,7 @@ export default function Penyebab() {
                 <h3 className="text-lg font-semibold mb-2 text-[#000]">
                   Sistem Patriarki di Masyarakat
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-[14px] md:text-[18px]">
                   Melekatnya sistem patriarki yang kuat dalam diri masyarakat
                   Indonesia menyebabkan masyarakat mewajarkan tindakan kekerasan
                   seksual ataupun pelecehan seksual dan justru menuduh korban
@@ -120,7 +120,7 @@ export default function Penyebab() {
                 <h3 className="text-lg font-semibold mb-2 text-[#000]">
                   Kebiasaan Menonton Konten Porno
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-[14px] md:text-[18px] text-gray-700">
                   Hal ini memicu adanya fantasi seksual, dan apabila tidak
                   disalurkan dengan baik maka bisa saja berujung pada pelecehan
                   seksual.

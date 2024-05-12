@@ -6,8 +6,8 @@ export default function Banner() {
     <>
       <div className="bg-[#D0BBE2] w-full h-auto flex flex-col align-center justify-center pt-8 sm:flex-row">
         {/* Konten Teks */}
-        <div className="text-center px-6 sm:px-0 sm:text-left sm:pl-10 text-[#000] font-DM Serif Display">
-          <div className="text-[20px] leading-2 sm:text-[31px] lg:text-[45px]">
+        <div className="text-center px-[17px] sm:px-0 sm:text-left sm:pl-10 text-[#000] font-DM Serif Display">
+          <div className="text-[21px] sm:text-[31px] lg:text-[45px]">
             {/* Headline */}
             <p style={{ fontFamily: "DM Serif Display, serif" }}>
               Bersama Lawan Kekerasan Seksual
@@ -20,7 +20,7 @@ export default function Banner() {
           {/* Ajakan */}
           <p
             style={{ fontFamily: "Poppins" }}
-            className="mt-4 text-[12px] sm:text-[16px] lg:text-[18px]"
+            className="mt-4 text-[14px] sm:text-[16px] lg:text-[18px] sm:pb-6 lg:pb-0"
           >
             Yuk, mari kita kenali bersama kekerasan seksual. Mengenali dan
             memahami tanda-tanda serta dampak dari kekerasan seksual adalah
@@ -30,7 +30,7 @@ export default function Banner() {
         </div>
 
         {/* Gambar Ilustrasi */}
-        <div className="mt-2 sm:mt-0  flex items-center justify-center">
+        <div className="mt-2 sm:mt-0 mb-0 flex items-center justify-center">
           <img
             src={illustration}
             className="w-[80%] h-[80%] sm:w-[100%] sm:h-[100%]"
