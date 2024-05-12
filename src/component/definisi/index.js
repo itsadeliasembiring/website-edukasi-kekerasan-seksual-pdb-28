@@ -74,7 +74,7 @@ export default function Definisi() {
                   </div>
 
                   <div
-                    className="text-[14px] px-4 mt-3"
+                    className="text-[16px] px-4 mt-3"
                     style={{ fontFamily: "Poppins" }}
                   >
                     <p>
@@ -102,7 +102,7 @@ export default function Definisi() {
                   </div>
 
                   <div
-                    className="text-[14px] px-4"
+                    className="text-[16px] px-4"
                     style={{ fontFamily: "Poppins" }}
                   >
                     <p>

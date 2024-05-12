@@ -16,9 +16,12 @@ export default function Kontak() {
 
         {/* Konten Teks */}
         <div className="text-center px-6 sm:px-0 sm:text-left sm:pl-10 text-[#000] font-DM Serif Display">
-          <div className="text-[20px] leading-2 sm:text-[31px] lg:text-[45px]">
+          <div>
             {/* Headline */}
-            <p style={{ fontFamily: "DM Serif Display, serif" }}>
+            <p
+              className="text-[55-px] sm:text-[31px] lg:text-[45px]"
+              style={{ fontFamily: "DM Serif Display, serif" }}
+            >
               Korban Kekerasan Seksual Tidak Pernah Salah!
             </p>
           </div>

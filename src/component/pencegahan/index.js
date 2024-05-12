@@ -12,14 +12,14 @@ export default function Pencegahan() {
           Apa Yang Dapat Kita Lakukan?
         </p>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 px-4 md:px-20 py-4">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 px-4 md:px-20 pb-4">
           {/* Card 1: Pencegahan */}
           <div className="bg-[#FEF3E1] border-2 border-[#000]">
             <div className="p-4">
               <h3 className="text-lg font-semibold mb-2 text-[#000]">
                 Pencegahan Kekerasan Seksual
               </h3>
-              <p className="text-gray-700 text-[12px] md:text-[14px] mb-3">
+              <p className="text-gray-700 text-[14px] md:text-[14px] mb-3">
                 Menurut World Health Organization (WHO) ada beberapa cara untuk
                 mencegah terjadinya kekerasan seksual, antara lain:
               </p>
@@ -169,7 +169,7 @@ export default function Pencegahan() {
               <h3 className="text-lg font-semibold mb-2 text-[#000]">
                 Penanganan Kekerasan Seksual
               </h3>
-              <p className="text-gray-700 text-[12px] md:text-[14px] mb-3">
+              <p className="text-gray-700 text-[14px] md:text-[14px] mb-3">
                 Mengutip permendikbud no 30 Tahun 2021 ada beberapa cara
                 penanganan kekerasan seksual diantaranya :
               </p>

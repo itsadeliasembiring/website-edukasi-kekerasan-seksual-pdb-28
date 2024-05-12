@@ -3,7 +3,7 @@ import React from "react";
 export default function JenisKekerasan() {
   return (
     <>
-      <div className="w-full bg-[#EAE7FB] pt-4 pb-7">
+      <div className="w-full bg-[#F1E1FE] pt-4 pb-7">
         {/* Title */}
         <p
           className="pb-4 text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
@@ -14,7 +14,7 @@ export default function JenisKekerasan() {
 
         <div className="px-5 md:px-10 grid grid-cols-1 gap-4">
           {/*  Berdasarkan jenisnya, kekerasan dapat digolongkan menjadi: */}
-          <div className="collapse collapse-arrow text-[#000] bg-[#E1DCFF]">
+          <div className="collapse collapse-arrow text-[#000] bg-[#E9D5F8]">
             <input type="checkbox" />
             <div className="collapse-title text-[16px] font-semibold">
               Berdasarkan jenisnya, kekerasan dapat digolongkan menjadi:
@@ -32,7 +32,7 @@ export default function JenisKekerasan() {
           </div>
 
           {/* Jenis Kekerasan Seksual Menurut Komnas Perempuan  */}
-          <div className="collapse collapse-arrow text-[#000] bg-[#E1DCFF]">
+          <div className="collapse collapse-arrow text-[#000] bg-[#E9D5F8]">
             <input type="checkbox" />
             <div className="collapse-title text-[16px] font-semibold">
               Jenis Kekerasan Seksual Menurut Komnas Perempuan
@@ -73,7 +73,7 @@ export default function JenisKekerasan() {
           </div>
 
           {/* Contoh Kekerasan Seksual Dikutip Dari Permendikbud Nomor 30 Tahun 2021  */}
-          <div className="collapse collapse-arrow text-[#000] bg-[#E1DCFF]">
+          <div className="collapse collapse-arrow text-[#000] bg-[#E9D5F8]">
             <input type="checkbox" />
             <div className="collapse-title text-[16px] font-semibold">
               Contoh Kekerasan Seksual Dikutip Dari Permendikbud Nomor 30 Tahun
