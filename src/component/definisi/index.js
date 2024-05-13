@@ -5,12 +5,11 @@ import girl from "../../assets/girl.png";
 export default function Definisi() {
   return (
     <>
-      <div className="w-full bg-[#F1E1FE] py-7 px-7 md:px-20">
+      <div className="w-full bg-[#F1E1FE] py-7 px-7 md:px-20" id="Definisi">
         {/* Title */}
         <p
           className="text-center text-[#000] text-[22px] md:text-[30px] tracking-widest mb-4"
           style={{ fontFamily: "DM Serif Display, serif" }}
-          id="Definisi"
         >
           Definisi Kekerasan Seksual
         </p>

@@ -5,12 +5,11 @@ import girl from "../../assets/girl.png";
 export default function Penyebab() {
   return (
     <>
-      <div className="w-full bg-[#DCFFE5] py-6">
+      <div className="w-full bg-[#DCFFE5] py-6" id="Penyebab">
         {/* Title */}
         <p
           className="text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
           style={{ fontFamily: "DM Serif Display, serif" }}
-          id="Penyebab"
         >
           Penyebab Kekerasan Seksual
         </p>

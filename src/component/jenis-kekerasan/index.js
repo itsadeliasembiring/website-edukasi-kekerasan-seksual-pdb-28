@@ -3,12 +3,11 @@ import React from "react";
 export default function JenisKekerasan() {
   return (
     <>
-      <div className="w-full bg-[#F1E1FE] pt-4 pb-7">
+      <div className="w-full bg-[#F1E1FE] pt-4 pb-7" id="JenisKekerasan">
         {/* Title */}
         <p
           className="pb-4 text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
           style={{ fontFamily: "DM Serif Display, serif" }}
-          id="JenisKekerasan"
         >
           Jenis Kekerasan Seksual
         </p>

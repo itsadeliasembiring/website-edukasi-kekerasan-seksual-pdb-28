@@ -36,7 +36,7 @@ export default function Kontak() {
           <ul className="list-disc ml-7 mt-1 text-[15px]">
             <li className="mb-2">"Minum alkohol terlalu banyak"</li>
             <li className="mb-2">"Hanya bersenang-senang"</li>
-            <li className="mb-2">"Pakaian yang orang lain kenakan</li>
+            <li className="mb-2">"Pakaian yang orang lain kenakan"</li>
             <li className="mb-2">
               "Jenis hubungan yang seperti apa yang orang lain miliki"
             </li>
@@ -73,18 +73,18 @@ export default function Kontak() {
             Kamu tidak sendirian! Kami siap membantu dan melindungimu!
           </p>
         </div>
-        <div className="mt-3 flex flex-row space-x-2">
+        <div className="mt-3 flex flex-row space-x-3">
           <a
             href="https://linktr.ee/satgasppksunair"
             target="_blank"
-            className="btn btn-sm md:btn-md lg:btn-lg bg-[#191919] text-[#fff] rounded-none"
+            className="btn btn-sm md:btn-md lg:btn-lg bg-[#191919] text-[#fff] rounded-[5px] !border-[#191919]"
           >
             Satgas PPKS UNAIR
           </a>
           <a
             href="https://wa.me/08111129129"
             target="_blank"
-            className="btn btn-sm md:btn-md lg:btn-lg bg-[#191919] text-[#fff] rounded-none"
+            className="btn btn-sm md:btn-md lg:btn-lg bg-[#191919] text-[#fff] rounded-[5px] !border-[#191919]"
           >
             Hotline SAPA 129
           </a>

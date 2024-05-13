@@ -1,5 +1,5 @@
 import React from "react";
-import MenuMobile from "../../component/menu-mobile/index";
+import Menu from "../../component/menu/index";
 import Banner from "../../component/banner/index";
 import Definisi from "../../component/definisi/index";
 import Penyebab from "../../component/penyebab/index";
@@ -11,8 +11,8 @@ import Kontak from "../../component/kontak-ppks";
 export default function Main() {
   return (
     <>
-      {/* Menu Mobile*/}
-      <MenuMobile />
+      {/* Menu */}
+      <Menu />
       <Banner />
       <Definisi />
       <Penyebab />

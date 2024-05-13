@@ -3,12 +3,11 @@ import React from "react";
 export default function DampakKekerasan() {
   return (
     <>
-      <div className="w-full bg-[#DCFFE5] py-4">
+      <div className="w-full bg-[#DCFFE5] py-4" id="DampakKekerasan">
         {/* Title */}
         <p
           className="pb-4 text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
           style={{ fontFamily: "DM Serif Display, serif" }}
-          id="DampakKekerasan"
         >
           Dampak Kekerasan Seksual
         </p>

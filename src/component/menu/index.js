@@ -15,43 +15,61 @@ export default function MenuMobile() {
           </a>
         </div>
         <div className="flex justify-end">
-          {/* Menu in Mobile  */}
-          <div className="hidden md:flex w-full justify-end items-center">
+          {/* Menu in Desktop  */}
+          <div className="hidden lg:flex w-full justify-end items-center">
             {/* Desktop Navigation */}
-            <ul className="hidden md:flex w-full md:flex-row justify-center items-center space-x-6 pr-10">
+            <ul className="hidden md:flex w-full md:flex-row justify-center items-center space-x-2 pr-10">
               <li className="nav-item">
-                <a href="#Definisi" className="nav-link text-[#000]">
+                <a
+                  href="#Definisi"
+                  className="nav-link text-[#000] btn bg-transparent border-none font-normal shadow-none hover:text-[#fff]"
+                >
                   Definisi
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#Penyebab" className="nav-link text-[#000]">
+                <a
+                  href="#Penyebab"
+                  className="nav-link text-[#000] btn bg-transparent border-none font-normal shadow-none hover:text-[#fff]"
+                >
                   Penyebab
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#JenisKekerasan" className="nav-link text-[#000]">
+                <a
+                  href="#JenisKekerasan"
+                  className="nav-link text-[#000] btn bg-transparent border-none font-normal shadow-none hover:text-[#fff]"
+                >
                   Jenis Kekerasan
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#DampakKekerasan" className="nav-link text-[#000]">
+                <a
+                  href="#DampakKekerasan"
+                  className="nav-link text-[#000] btn bg-transparent border-none font-normal shadow-none hover:text-[#fff]"
+                >
                   Dampak
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#Pencegahan" className="nav-link text-[#000]">
+                <a
+                  href="#Pencegahan"
+                  className="nav-link text-[#000] btn bg-transparent border-none font-normal shadow-none hover:text-[#fff]"
+                >
                   Pencegahan & Penanganan
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#Kontak" className="nav-link text-[#000]">
+                <a
+                  href="#Kontak"
+                  className="nav-link text-[#000] btn bg-transparent border-none font-normal shadow-none hover:text-[#fff]"
+                >
                   Kontak PPKS & SAPA
                 </a>
               </li>
             </ul>
           </div>
-          <div className="dropdown dropdown-end md:hidden">
+          <div className="dropdown dropdown-end lg:hidden">
             <div
               tabIndex={0}
               role="button"
@@ -71,7 +89,7 @@ export default function MenuMobile() {
                 />
               </svg>
             </div>
-            <ul className="menu menu-sm  dropdown-content mt-3 z-[1] p-2 shadow bg-[#EAE7FB] text-[#424242] rounded-box w-52">
+            <ul className="menu menu-sm  dropdown-content mt-3 z-[1] p-2 shadow bg-[#EAE7FB] text-[#424242] rounded-box w-52 ">
               <li>
                 <a href="#Definisi">Definisi</a>
               </li>
