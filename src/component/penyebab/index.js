@@ -5,7 +5,7 @@ import girl from "../../assets/girl.png";
 export default function Penyebab() {
   return (
     <>
-      <div className="w-full bg-[#F1E1FE] py-6">
+      <div className="w-full bg-[#DCFFE5] py-6">
         {/* Title */}
         <p
           className="text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
@@ -15,7 +15,7 @@ export default function Penyebab() {
         </p>
 
         {/* Card Desktop & Tablet */}
-        <div className="hidden md:grid md:grid-cols-2 lg:grid-cols-4 gap-4 px-4 md:px-20 py-4 bg-[#F1E1FE]">
+        <div className="hidden md:grid md:grid-cols-2 lg:grid-cols-4 gap-4 px-4 md:px-20 py-4 bg-[#DCFFE5]">
           {/* Card 1: Hawa Nafsu */}
           <div className="bg-[#FEF3E1] border-2 border-[#000]">
             <div className="p-4">

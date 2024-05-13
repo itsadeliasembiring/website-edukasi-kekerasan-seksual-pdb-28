@@ -11,7 +11,7 @@ export default function MenuMobile() {
             className="text-[#000] ml-8 font-semibold"
             style={{ fontFamily: "Poppins" }}
           >
-            Kelompok PDB 28
+            Kelompok 1 PDB 28
           </a>
         </div>
         <div className="navbar-end">
@@ -38,13 +38,22 @@ export default function MenuMobile() {
             </div>
             <ul className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-[#EAE7FB] text-[#424242] rounded-box w-52">
               <li>
-                <a>Homepage</a>
+                <a href="#Definisi">Definisi</a>
               </li>
               <li>
-                <a>Portfolio</a>
+                <a href="#Penyebab">Penyebab</a>
               </li>
               <li>
-                <a>About</a>
+                <a href="#JenisKekerasan">Jenis Kekerasan</a>
+              </li>
+              <li>
+                <a href="#DampakKekerasan">Dampak</a>
+              </li>
+              <li>
+                <a href="#Pencegahan">Pencegahan & Penanganan</a>
+              </li>
+              <li>
+                <a href="#Kontak">Kontak PPKS & SAPA</a>
               </li>
             </ul>
           </div>

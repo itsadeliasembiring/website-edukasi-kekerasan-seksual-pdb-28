@@ -14,12 +14,12 @@ export default function Main() {
       {/* Menu Mobile*/}
       <MenuMobile />
       <Banner />
-      <Definisi />
-      <Penyebab />
-      <JenisKekerasan />
-      <DampakKekerasan />
-      <Pencegahan />
-      <Kontak />
+      <Definisi id="Definisi" />
+      <Penyebab id="Penyebab" />
+      <JenisKekerasan id="JenisKekerasan" />
+      <DampakKekerasan id="DampakKekerasan" />
+      <Pencegahan id="Pencegahan" />
+      <Kontak id="Kontak" />
     </>
   );
 }
