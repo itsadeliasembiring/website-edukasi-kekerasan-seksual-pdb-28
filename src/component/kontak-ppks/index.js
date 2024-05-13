@@ -61,7 +61,7 @@ export default function Kontak() {
       <div class="w-full flex flex-col pt-4 pb-10 px-6 bg-[#D0BBE2] text-[#000] items-center justify-center">
         <div className="text-[28px] leading-2 sm:text-[31px] lg:text-[45px]">
           {/* Headline */}
-          <p style={{ fontFamily: "DM Serif Display, serif" }}>
+          <p style={{ fontFamily: "DM Serif Display, serif" }} id="Kontak">
             Kamu butuh bantuan?
           </p>
         </div>

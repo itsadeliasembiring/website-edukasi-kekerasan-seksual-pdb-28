@@ -10,6 +10,7 @@ export default function Penyebab() {
         <p
           className="text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
           style={{ fontFamily: "DM Serif Display, serif" }}
+          id="Penyebab"
         >
           Penyebab Kekerasan Seksual
         </p>

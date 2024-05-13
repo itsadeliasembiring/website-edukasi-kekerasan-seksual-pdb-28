@@ -8,6 +8,7 @@ export default function DampakKekerasan() {
         <p
           className="pb-4 text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
           style={{ fontFamily: "DM Serif Display, serif" }}
+          id="DampakKekerasan"
         >
           Dampak Kekerasan Seksual
         </p>

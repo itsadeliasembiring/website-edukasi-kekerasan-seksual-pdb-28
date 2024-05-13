@@ -8,6 +8,7 @@ export default function JenisKekerasan() {
         <p
           className="pb-4 text-center text-[#000] text-[21px] md:text-[30px] tracking-widest"
           style={{ fontFamily: "DM Serif Display, serif" }}
+          id="JenisKekerasan"
         >
           Jenis Kekerasan Seksual
         </p>

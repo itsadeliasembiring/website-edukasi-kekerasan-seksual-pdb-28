@@ -10,6 +10,7 @@ export default function Definisi() {
         <p
           className="text-center text-[#000] text-[22px] md:text-[30px] tracking-widest mb-4"
           style={{ fontFamily: "DM Serif Display, serif" }}
+          id="Definisi"
         >
           Definisi Kekerasan Seksual
         </p>

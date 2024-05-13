@@ -4,7 +4,7 @@ import illustration from "../../assets/stop.png";
 export default function Banner() {
   return (
     <>
-      <div className="bg-[#D0BBE2] w-full h-auto flex flex-col align-center justify-center pt-8 sm:flex-row">
+      <div className="bg-[#D0BBE2] w-full h-auto flex flex-col align-center justify-center pt-20 sm:flex-row">
         {/* Konten Teks */}
         <div className="text-center px-6 sm:px-0 sm:text-left sm:pl-10 text-[#000] font-DM Serif Display">
           <div className="text-[22px] sm:text-[31px] lg:text-[45px]">
